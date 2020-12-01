@@ -4,4 +4,4 @@ The attention Module used in this implementation inspired by https://arxiv.org/a
 
 The attention module imitates the dorsal (where) and ventral (what) streams of attention mechanism.
 
-The attention module mized with residual concept to obtain better result.
+The attention module mixed with residual concept to obtain better result.
